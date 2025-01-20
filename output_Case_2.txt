@@ -1,0 +1,138 @@
+_______________________________________________________________________________________ 1
+                                                      Friday, August 25, 2023 11:38:56 AM
+Case Study 4
+Summary of Study Disposition by Visit
+All Randomized Patients
+________________________________________________________________________________________
+
+Treatment: TRT X (N=58)        visit 3   visit 4   visit 5   visit 6   visit 7  
+Patient Disposition             n (%)     n (%)     n (%)     n (%)     n (%)   
+--------------------------------------------------------------------------------
+                                                                                
+Not completed                  3 (5.17)  4 (6.90)  4 (6.90)  2 (3.45)  2 (3.45) 
+Adverse Event                  2 (3.45)            1 (1.72)  1 (1.72)  1 (1.72) 
+Lack of Efficacy                         2 (3.45)                               
+Physician Decision             1 (1.72)  1 (1.72)                               
+Protocol Violation                       1 (1.72)                      1 (1.72) 
+Sponsor Decision                                   1 (1.72)                     
+Subject Decision                                   2 (3.45)  1 (1.72)           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________________________________________________________________
+Abbreviations:  N = total number of randomized patients under each treatment arm;
+                n = number of patients in the specified category.
+          
+Program location:/home/u63207986/New Folder/FQDISA11.sas.
+Output location:/home/u63207986/New Folder/FQDISA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________
+_______________________________________________________________________________________ 2
+                                                      Friday, August 25, 2023 11:38:56 AM
+Case Study 4
+Summary of Study Disposition by Visit
+All Randomized Patients
+________________________________________________________________________________________
+
+Treatment: TRT Y (N=60)        visit 3   visit 4   visit 5   visit 6   visit 7  
+Patient Disposition             n (%)     n (%)     n (%)     n (%)     n (%)   
+--------------------------------------------------------------------------------
+                                                                                
+Not completed                 6 (10.34)  2 (3.45)  1 (1.72) 6 (10.34)  3 (5.17) 
+Adverse Event                  3 (5.17)            1 (1.72)            1 (1.72) 
+Entry Criteria Exclusion       1 (1.72)                      1 (1.72)           
+Lack of Efficacy                                             1 (1.72)  1 (1.72) 
+Protocol Violation             1 (1.72)                                1 (1.72) 
+Subject Decision               1 (1.72)  2 (3.45)            4 (6.90)           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________________________________________________________________
+Abbreviations:  N = total number of randomized patients under each treatment arm;
+                n = number of patients in the specified category.
+          
+Program location:/home/u63207986/New Folder/FQDISA11.sas.
+Output location:/home/u63207986/New Folder/FQDISA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________

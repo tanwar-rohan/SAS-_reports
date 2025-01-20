@@ -1,0 +1,69 @@
+                                                     Monday, May  8, 2023 01:16:32 PM   1
+Case Study 1
+Listing of Adverse Events Reported as Reason for Discontinuation
+All Randomized Patients
+________________________________________________________________________________________
+
+                                      Preferred                               Event Onset
+Trt*a Inv. Patient Age*b Sex    Visit Term                                    Date       
+-----------------------------------------------------------------------------------------
+                                                                                         
+TRT X   1     39     57  Male     3   Gamma-glutamyltransferase increased     13OCT2005  
+TRT X   5     76     54  Female   6   Vertebrobasilar insufficiency           18MAR2005  
+TRT X   6    106     39  Male     5   Depression                              01JUN2005  
+TRT X   8     67     38  Male     7   Weight increased                        23MAR2005  
+TRT X  10    117     34  Male     3   Headache                                18NOV2005  
+TRT Y   1     9      59  Male     5   Diabetes mellitus non-insulin-dependent 15NOV2005  
+TRT Y   4     30     51  Male     3   Depression                              14MAR2005  
+TRT Y   9    130     42  Male     3   Constipation                            13OCT2005  
+TRT Y  10    107     41  Male     3   Blood triglycerides increased           01SEP2005  
+TRT Y  12     86     23  Male     7   Adenovirus infection                    15NOV2005  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________________________________________________________________
+Abbreviations: *a - Drug taken at Event Onset : *b - Age at Study Admission
+Program location:/home/u63207986/New Folder/LSDISA1.sas.
+Output location:/home/u63207986/New Folder/LSDISA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________

@@ -1,0 +1,69 @@
+                                                 Thursday, January 11, 2024 12:11:25 PM   1
+Case Study 2
+Baseline Characteristics
+All Randomized Patients
+________________________________________________________________________________________
+
+                                           TRT X             TRT Y             Total
+Variable                                  (N=58)            (N=60)           (N=118)
+                                                                                    
+------------------------------------------------------------------------------------
+                                                                                    
+Sex: No. (%)                                                                        
+     No. Patients                             58                60               118
+     Female                           22 (37.93)        28 (46.67)        50 (42.37)
+     Male                             36 (62.07)        32 (53.33)        68 (57.63)
+Origin: No. (%)                                                                     
+     No. Patients                             58                60               118
+     Asian                            19 (32.76)        17 (28.33)        36 (30.51)
+     Caucasian                        22 (37.93)        22 (36.67)        44 (37.29)
+     Hispanic                         17 (29.31)        21 (35.00)        38 (32.20)
+Age: yrs.                                                                           
+     No. Patients                             58                60               118
+     MEAN                                  40.07             41.20             81.27
+     Median                                41.00             41.00             82.00
+     SD                                    10.70             11.44             22.14
+     Minimum                               19.00             20.00             39.00
+     Maximum                               63.00             65.00            128.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________________________________________________________________
+Abbreviations: SD = standard deviation.
+Program location:/home/u63207986/New Folder/FQDEMA1.sas.
+Output location:/home/u63207986/New Folder/FQDEMA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________

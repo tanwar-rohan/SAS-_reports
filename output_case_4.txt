@@ -1,0 +1,207 @@
+_______________________________________________________________________________________ 1
+                                                        Friday, June 16, 2023 12:51:44 PM
+Case Study 3
+Treatment Emergent Adverse Events (TEAEs) by System Organ Class and Preferred Term
+All Randomized Patients
+________________________________________________________________________________________
+
+                                                       TRT X      TRT Y      Total   
+System Organ class                                     (N=58)     (N=60)    (N=118)  
+    Preferred Term                                     n  %       n  %       n  %    
+-------------------------------------------------------------------------------------
+                                                                                     
+Subjects with >= 1 TEAE                             37 (63.79) 32 (53.33) 69 (58.47) 
+Cardiac disorders                                    3 (8.11)   1 (2.70)   4 (5.80)  
+  Bundle branch block right                                    1 (100.00)  1 (25.00) 
+  Myocardial fibrosis                                          1 (100.00)  1 (25.00) 
+  Tachycardia                                        2 (66.67)             2 (50.00) 
+  Ventricular hypertrophy                            1 (33.33)             1 (25.00) 
+Ear and labyrinth disorders                          1 (2.70)              1 (1.45)  
+  Deafness                                          1 (100.00)            1 (100.00) 
+Eye disorders                                        4 (10.81)  2 (5.41)   6 (8.70)  
+  Diplopia                                                      1 (50.00)  1 (16.67) 
+  Dry eye                                                       1 (50.00)  1 (16.67) 
+  Photophobia                                                   1 (50.00)  1 (16.67) 
+  Vision blurred                                    4 (100.00)  1 (50.00)  5 (83.33) 
+  Visual disturbance                                            1 (50.00)  1 (16.67) 
+Gastrointestinal disorders                          10 (27.03) 10 (27.03) 20 (28.99) 
+  Abdominal pain                                     1 (10.00)             1 (5.00)  
+  Abdominal pain upper                                          1 (10.00)  1 (5.00)  
+  Constipation                                                  6 (60.00)  6 (30.00) 
+  Dry mouth                                          5 (50.00)  1 (10.00)  6 (30.00) 
+  Dyspepsia                                          1 (10.00)             1 (5.00)  
+  Nausea                                             1 (10.00)  4 (40.00)  5 (25.00) 
+  Salivary hypersecretion                            1 (10.00)             1 (5.00)  
+  Vomiting                                           2 (20.00)             2 (10.00) 
+General disorders and administration site conditions 4 (10.81)  2 (5.41)   6 (8.70)  
+  Asthenia                                           1 (25.00)             1 (16.67) 
+  Fatigue                                            1 (25.00) 2 (100.00)  3 (50.00) 
+  Hypothermia                                        1 (25.00)             1 (16.67) 
+  Pain                                               1 (25.00)             1 (16.67) 
+Immune system disorders                                         1 (2.70)   1 (1.45)  
+  Seasonal allergy                                             1 (100.00) 1 (100.00) 
+Infections and infestations                          1 (2.70)   4 (10.81)  5 (7.25)  
+  Adenovirus infection                                          1 (25.00)  1 (20.00) 
+  Gastroenteritis                                               1 (25.00)  1 (20.00) 
+  Sinusitis                                         1 (100.00)             1 (20.00) 
+  Upper respiratory tract infection                             1 (25.00)  1 (20.00) 
+  Viral infection                                               1 (25.00)  1 (20.00) 
+Injury, poisoning and procedural complications                  1 (2.70)   1 (1.45)  
+  Self mutilation                                              1 (100.00) 1 (100.00) 
+Investigations                                       8 (21.62)  5 (13.51) 13 (18.84) 
+  Alanine aminotransferase increased                 4 (50.00)             4 (30.77) 
+  Blood cholesterol increased                                   1 (20.00)  1 (7.69)  
+  Blood glucose increased                            2 (25.00)             2 (15.38) 
+  Blood triglycerides increased                      1 (12.50)  1 (20.00)  2 (15.38) 
+  Gamma-glutamyltransferase increased                1 (12.50)             1 (7.69)  
+  Platelet count increased                           1 (12.50)             1 (7.69)  
+  Weight increased                                   1 (12.50)  3 (60.00)  4 (30.77) 
+Metabolism and nutrition disorders                   2 (5.41)   2 (5.41)   4 (5.80)  
+  Diabetes mellitus non-insulin-dependent                       1 (50.00)  1 (25.00) 
+ 
+________________________________________________________________________________________
+Abbreviations: N = number of randomized subjects within each group;
+n = number of subjects with treatment-emergent adverse event within each group;
+TEAE = treatment emergent adverse event
+Program location:/home/u63207986/New Folder/FQTEAA1.sas.
+Output location:/home/u63207986/New Folder/FQTEAA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________
+_______________________________________________________________________________________ 2
+                                                        Friday, June 16, 2023 12:51:44 PM
+Case Study 3
+Treatment Emergent Adverse Events (TEAEs) by System Organ Class and Preferred Term
+All Randomized Patients
+________________________________________________________________________________________
+
+                                                       TRT X      TRT Y      Total   
+System Organ class                                     (N=58)     (N=60)    (N=118)  
+    Preferred Term                                     n  %       n  %       n  %    
+-------------------------------------------------------------------------------------
+                                                                                     
+  Glucose tolerance impaired                                    1 (50.00)  1 (25.00) 
+  Increased appetite                                2 (100.00)  1 (50.00)  3 (75.00) 
+  Lipomatosis                                                   1 (50.00)  1 (25.00) 
+Musculoskeletal and connective tissue disorders      6 (16.22)  1 (2.70)   7 (10.14) 
+  Back pain                                          1 (16.67)             1 (14.29) 
+  Muscle spasms                                                1 (100.00)  1 (14.29) 
+  Muscle tightness                                   1 (16.67)             1 (14.29) 
+  Muscular weakness                                  1 (16.67)             1 (14.29) 
+  Musculoskeletal stiffness                          1 (16.67)             1 (14.29) 
+  Myalgia                                            1 (16.67)             1 (14.29) 
+  Rotator cuff syndrome                              1 (16.67)             1 (14.29) 
+Nervous system disorders                            23 (62.16) 16 (43.24) 39 (56.52) 
+  Akathisia                                                     1 (6.25)   1 (2.56)  
+  Balance disorder                                   1 (4.35)              1 (2.56)  
+  Clumsiness                                         1 (4.35)              1 (2.56)  
+  Disturbance in attention                           1 (4.35)              1 (2.56)  
+  Dizziness                                          3 (13.04)  2 (12.50)  5 (12.82) 
+  Dysarthria                                         1 (4.35)   1 (6.25)   2 (5.13)  
+  Dystonia                                                      1 (6.25)   1 (2.56)  
+  Extrapyramidal disorder                            1 (4.35)   1 (6.25)   2 (5.13)  
+  Headache                                           5 (21.74)  5 (31.25) 10 (25.64) 
+  Lethargy                                           1 (4.35)              1 (2.56)  
+  Paraesthesia                                                  1 (6.25)   1 (2.56)  
+  Paraesthesia oral                                             1 (6.25)   1 (2.56)  
+  Parkinsonism                                                  1 (6.25)   1 (2.56)  
+  Sedation                                           3 (13.04)  1 (6.25)   4 (10.26) 
+  Somnolence                                         9 (39.13)  8 (50.00) 17 (43.59) 
+  Syncope                                            1 (4.35)   1 (6.25)   2 (5.13)  
+  Tremor                                             2 (8.70)   1 (6.25)   3 (7.69)  
+  Vertebrobasilar insufficiency                      1 (4.35)              1 (2.56)  
+Psychiatric disorders                                5 (13.51)  5 (13.51) 10 (14.49) 
+  Alcoholism                                         1 (20.00)             1 (10.00) 
+  Anxiety                                            2 (40.00)  1 (20.00)  3 (30.00) 
+  Depression                                         1 (20.00)  2 (40.00)  3 (30.00) 
+  Insomnia                                           2 (40.00)  1 (20.00)  3 (30.00) 
+  Irritability                                                  1 (20.00)  1 (10.00) 
+  Sleep disorder                                     1 (20.00)             1 (10.00) 
+Renal and urinary disorders                                     1 (2.70)   1 (1.45)  
+  Urinary incontinence                                         1 (100.00) 1 (100.00) 
+Reproductive system and breast disorders             1 (2.70)   1 (2.70)   2 (2.90)  
+  Metrorrhagia                                                 1 (100.00)  1 (50.00) 
+  Vaginal discharge                                 1 (100.00)             1 (50.00) 
+Respiratory, thoracic and mediastinal disorders                 1 (2.70)   1 (1.45)  
+  Asthma                                                       1 (100.00) 1 (100.00) 
+Skin and subcutaneous tissue disorders               5 (13.51)  3 (8.11)   8 (11.59) 
+  Acne                                                          2 (66.67)  2 (25.00) 
+  Exanthem                                           1 (20.00)             1 (12.50) 
+  Hair growth abnormal                               1 (20.00)             1 (12.50) 
+ 
+________________________________________________________________________________________
+Abbreviations: N = number of randomized subjects within each group;
+n = number of subjects with treatment-emergent adverse event within each group;
+TEAE = treatment emergent adverse event
+Program location:/home/u63207986/New Folder/FQTEAA1.sas.
+Output location:/home/u63207986/New Folder/FQTEAA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________
+_______________________________________________________________________________________ 3
+                                                        Friday, June 16, 2023 12:51:44 PM
+Case Study 3
+Treatment Emergent Adverse Events (TEAEs) by System Organ Class and Preferred Term
+All Randomized Patients
+________________________________________________________________________________________
+
+                                                       TRT X      TRT Y      Total   
+System Organ class                                     (N=58)     (N=60)    (N=118)  
+    Preferred Term                                     n  %       n  %       n  %    
+-------------------------------------------------------------------------------------
+                                                                                     
+  Photosensitivity reaction                                     1 (33.33)  1 (12.50) 
+  Pruritus                                           1 (20.00)             1 (12.50) 
+  Rash                                               3 (60.00)             3 (37.50) 
+Vascular disorders                                   1 (2.70)   2 (5.41)   3 (4.35)  
+  Flushing                                                      1 (50.00)  1 (33.33) 
+  Hypertension                                      1 (100.00)  1 (50.00)  2 (66.67) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________________________________________________________________
+Abbreviations: N = number of randomized subjects within each group;
+n = number of subjects with treatment-emergent adverse event within each group;
+TEAE = treatment emergent adverse event
+Program location:/home/u63207986/New Folder/FQTEAA1.sas.
+Output location:/home/u63207986/New Folder/FQTEAA11.txt.
+Data location:/home/u63207986/New Folder/.
+________________________________________________________________________________________
